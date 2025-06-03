@@ -1,7 +1,11 @@
 /*
-const cars = ["Saab", "Volvo", "BMW"];
-// const cars = new Array("Saab", "Volvo", BMW);
-console.log(cars[0]);
+const desenvolvedores1 = ["Ada Lovelace", "Irmã Mary Kenneth", "Alan Turing"];
+const desenvolvedores2 = new Array(
+  "Ada Lovelace",
+  "Irmã Mary Kenneth",
+  "Alan Turing"
+);
+console.log(desenvolvedores1[0]);
 */
 
 /* 
